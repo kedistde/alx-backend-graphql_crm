@@ -1,6 +1,6 @@
 INSTALLED_APPS = [
     ...
-    'graphene_django',
+    'graphene-django',
     'crm',
     django_filters',
 ]
